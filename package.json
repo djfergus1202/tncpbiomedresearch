@@ -1,0 +1,29 @@
+{
+  "name": "biomed-research-suite-comprehensive",
+  "version": "4.0.0",
+  "description": "Comprehensive BioMed Research Suite - Molecular Docking, Retrosynthesis, Antibody Engineering, and More",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "biomed",
+    "molecular-docking",
+    "retrosynthesis",
+    "antibody-engineering",
+    "cdr-generation",
+    "structure-prediction",
+    "quantum-chemistry",
+    "computational-biology"
+  ],
+  "author": "BioMed Research Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
